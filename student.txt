@@ -1,0 +1,3 @@
+this is student file for testing my understanding of git. 
+
+This is my modification text for student file.
